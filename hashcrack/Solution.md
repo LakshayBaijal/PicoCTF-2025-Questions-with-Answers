@@ -19,6 +19,8 @@ Enter the password for the identified hash: qwerty098
 Correct! You've cracked the SHA-256 hash with a secret found. 
 ```
 
+
+## Flag -
 ```bash
-Flag - picoCTF{UseStr0nG_h@shEs_&PaSswDs!_ce730f64}
+picoCTF{UseStr0nG_h@shEs_&PaSswDs!_ce730f64}
 ```
